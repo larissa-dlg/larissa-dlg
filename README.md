@@ -4,7 +4,7 @@
 </h1>
 
 ### :newspaper: About
-Passionate about writing code. Continuously exploring new technologies and best practices to deliver high-quality solutions.
+Having a coffee and writing code. Continuously exploring new technologies and best practices to deliver high-quality solutions.
 
 ### :zap: Connect
 <p>Other places where you can find me.</p>
